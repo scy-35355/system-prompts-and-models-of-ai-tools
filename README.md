@@ -68,28 +68,6 @@
 
 ---
 
-# 赞助商
-
-赞助这个最全面的 AI 系统提示词仓库，让你的品牌触达数以千计的开发者。
-
-[联系赞助](mailto:lucknitelol@proton.me)
-
----
-
-## 🛠 开发路线图与反馈
-
-> 欢迎提交 Issue。
-
-> **最后更新时间:** 2026/03/08
-
----
-
-## 🔗 联系我
-
-- **X (Twitter):** [NotLucknite](https://x.com/NotLucknite)
-- **Discord**: `x1xhlol`
-- **Email**: `lucknitelol@pm.me`
-
 
 ## 📊 Star 历史趋势
 
