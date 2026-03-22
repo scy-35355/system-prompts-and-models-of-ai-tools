@@ -58,22 +58,6 @@
 
 ---
 
-## ❤️ 支持本项目
-
-如果你觉得这个集合有价值，并认可我们在获取和分享这些内部信息上所付出的努力，请考虑支持本项目。
-
-你可以通过以下方式支持：
-
-- **加密货币:**  
-  - **BTC:** `bc1q7zldmzjwspnaa48udvelwe6k3fef7xrrhg5625`   
-  - **LTC:** `LRWgqwEYDwqau1WeiTs6Mjg85NJ7m3fsdQ`  
-  - **ETH:** `0x3f844B2cc3c4b7242964373fB0A41C4fdffB192A`
-- **Patreon:** https://patreon.com/lucknite
-- **Ko-fi:** https://ko-fi.com/lucknite
-
-🙏 感谢你的支持！
-
----
 
 ## 🛡️ AI 初创公司安全须知
 
