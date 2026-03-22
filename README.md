@@ -1,14 +1,3 @@
-<p align="center">
-  支持我的工作：
-  <a href="https://bags.fm/DEffWzJyaFRNyA4ogUox631hfHuv3KLeCcpBh2ipBAGS">Bags.fm</a> •
-  <a href="https://jup.ag/tokens/DEffWzJyaFRNyA4ogUox631hfHuv3KLeCcpBh2ipBAGS">Jupiter</a> •
-  <a href="https://photon-sol.tinyastro.io/en/lp/Qa5ZCCwrWoPYckNXXMCAhCsw8gafgYFAu1Qes3Grgv5?handle=">Photon</a> •
-  <a href="https://dexscreener.com/solana/qa5zccwrwopycknxxmcahcsw8gafgyfau1qes3grgv5">DEXScreener</a>
-</p>
-
-<p align="center">官方合约地址 (CA): DEffWzJyaFRNyA4ogUox631hfHuv3KLeCcpBh2ipBAGS (Solana 链)</p>
-
----
 
 <p align="center">
 ❤️ 很高兴看到开源工具回馈开源社区。Kilo Code 是一款 AI 编程智能体，其系统提示词、源码以及智能体架构已全部在 GitHub 仓库中开源。
